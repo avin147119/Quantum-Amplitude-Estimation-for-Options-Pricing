@@ -64,7 +64,7 @@ $$C = e^{-rT} \cdot a \cdot f_{\max}$$
 
 $$\mathcal{Q} = \mathcal{A}\, S_0\, \mathcal{A}^\dagger\, S_\chi$$
 
-where:
+where::
 - $S_\chi$ = reflection about the "good" subspace (ancilla = $|1\rangle$): flips phase of good states
 - $S_0$ = reflection about $|0\rangle^{\otimes(n+1)}$: flips phase of the all-zeros state
 
